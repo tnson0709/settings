@@ -1,0 +1,2 @@
+# settings
+Thiết lập chung
